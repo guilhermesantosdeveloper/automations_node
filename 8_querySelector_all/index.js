@@ -10,6 +10,6 @@ const url = 'https://www.w3schools.com/';
   const page = await browser.newPage();
   await page.goto(url);
   const options = await page.$$eval('.w3-col', options => options.map(option=>option.innerText)) // querySelectorAll eval - evaluate
-  console.log(options);
+  console.log(options)
   await browser.close();
 })()
