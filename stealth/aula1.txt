@@ -1,0 +1,9 @@
+// evitando cair em lista negra
+  // Rotacao de ip (com proxy)
+  // Usando proxy - pode ser custoso
+  // navegador sem interface grafica(headless)
+  // mudanca no layout do site alvo (fazer checagem dentro do robo para que ele perceba essas mudancas)
+  // tornar sua automação mais humana
+  // rotacionando user agent
+
+
