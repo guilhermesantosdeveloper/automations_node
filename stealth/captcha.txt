@@ -1,0 +1,4 @@
+Para vender e recomendo utilizar serviço pago como 2Captcha
+Entao vai ter um custo para realizar captcha
+  npm i puppetter-extra
+  npm i puppetter-exta-plugin-stealth
