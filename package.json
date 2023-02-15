@@ -16,6 +16,7 @@
     "puppeteer-cluster": "^0.23.0",
     "puppeteer-extra": "^3.3.4",
     "puppeteer-extra-plugin-stealth": "^2.11.1",
-    "random-useragent": "^0.5.0"
+    "random-useragent": "^0.5.0",
+    "xlsx": "^0.18.5"
   }
 }

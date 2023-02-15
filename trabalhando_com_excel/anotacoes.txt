@@ -1,0 +1,1 @@
+Utilizar a lib SheetJs

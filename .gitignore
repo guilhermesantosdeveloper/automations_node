@@ -3,3 +3,4 @@ node_modules
 *.pdf
 *.png
 .env
+.~lock.dados.xlsx#
